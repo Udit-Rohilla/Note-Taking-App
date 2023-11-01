@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-### 'npm install'
+### `npm install`
 First install the node modules with this command.
 
 ### `npm start`
